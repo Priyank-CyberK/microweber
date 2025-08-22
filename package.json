@@ -8,7 +8,7 @@
         "admincssdev": "gulp admin-css-dev"
     },
     "dependencies": {
-        "@alpinejs/focus": "3.13.7",
+        "@alpinejs/focus": "3.14.9",
         "@heroicons/vue": "^1.0.6",
         "@popperjs/core": "^2.6.0",
         "@vitejs/plugin-vue": "^4.1.0",
